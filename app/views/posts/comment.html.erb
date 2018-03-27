@@ -1,0 +1,10 @@
+<%= form_for(@post) do |f| %>
+
+  <%= image_tag @post.avatar.url(:medium) %>
+
+<div class="field">
+  <%= f.label :comments %>
+  <%= f.text_area :comments %>
+</div>
+
+<% end %>
