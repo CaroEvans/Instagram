@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: caroscloud
+  api_key: '141981912267843'
+  api_secret: 7ePKRf5mVeTYpX6z1mWqVJgRs-Y
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: caroscloud
+  api_key: '141981912267843'
+  api_secret: 7ePKRf5mVeTYpX6z1mWqVJgRs-Y
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: caroscloud
+  api_key: '141981912267843'
+  api_secret: 7ePKRf5mVeTYpX6z1mWqVJgRs-Y
+  enhance_image_tag: true
+  static_image_support: false
