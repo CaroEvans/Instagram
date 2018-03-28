@@ -1,6 +1,6 @@
 <%= form_for(@post) do |f| %>
 
-  <%= image_tag @post.avatar.url(:medium) %>
+  <%= image_tag @post.image_url(:medium) %>
 
 <div class="field">
   <%= f.label :comments %>

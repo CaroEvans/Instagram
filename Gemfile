@@ -58,3 +58,9 @@ gem "devise", "~> 4.4"
 
 # Added at 2018-03-27 14:34:23 +1000 by caroevans:
 gem "paperclip", "~> 6.0"
+
+# Added at 2018-03-28 15:19:59 +1000 by caroevans:
+gem "carrierwave", "~> 1.2"
+
+# Added at 2018-03-28 15:20:13 +1000 by caroevans:
+gem "cloudinary", "~> 1.9"
